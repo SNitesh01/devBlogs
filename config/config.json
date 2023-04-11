@@ -18,11 +18,11 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2022 a theme by [themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2022"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "nits",
     "meta_image": "/images/og-image.png",
     "meta_description": "Next Boilerplate"
   }
